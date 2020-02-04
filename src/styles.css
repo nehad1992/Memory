@@ -1,3 +1,9 @@
 img {
   max-width: 100px;
 }
+.cardAce {
+  display: none;
+}
+.jackOfCard , .kingOfCard, .queenOfCard, .twoOfHearts {
+  display: none;
+}
